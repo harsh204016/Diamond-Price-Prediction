@@ -58,4 +58,4 @@ if st.button('Predict'):
     
     prediction = predict_quality(model, features_df)
     
-    st.sucess(' Based on feature values, Price of Diamond $'+ str(prediction)+" US dollars")
+    st.success(' Based on feature values, Price of Diamond $'+ str(prediction)+" US dollars")
