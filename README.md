@@ -1,6 +1,7 @@
 # Diamond Price Prediction
 
-You check this [here](https://share.streamlit.io/harsh204016/diamond-price-prediction/main/app.py) 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/harsh204016/diamond-price-prediction/main/app.py)
+
 
 
 * Dataset used [kaggle](https://www.kaggle.com/shivam2503/diamonds)
