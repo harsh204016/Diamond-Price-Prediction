@@ -71,4 +71,4 @@ if c2.button('Predict'):
     
     prediction = predict_quality(model, features_df)
     
-    st.sidebar.success(' Based on feature values, Price of Diamond $'+ str(prediction)+" US dollars")
+    st.sidebar.success('Price of Diamond $'+ str(prediction)+" US dollars")
